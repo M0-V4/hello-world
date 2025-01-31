@@ -1,2 +1,2 @@
-# hello-world
-Este repositorio es para practicar el flujo de GitHub
+# Hola soy Miguel
+Este repositorio es para una practica evaluable de entornos de desarrollo
